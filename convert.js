@@ -1,4 +1,4 @@
-const csvFile = "./public/data/Report_Tutti.csv";
+const csvFile = "./data/svc_TD_copia.csv";
 const csv = require('csvtojson');
 
 csv()
